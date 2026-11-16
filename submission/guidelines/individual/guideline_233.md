@@ -2,13 +2,19 @@
 
 **Lab 07: Guideline, Taxonomy & Quality Control**
 
-Nhóm: Alpha
-Người thực hiện: Nguyễn Thị Hương Giang
-Mã học viên: 2A202603233
-Phiên bản: Individual Final v1.0
-Phạm vi: 40 ảnh đường phố (data/images/img_001.jpg – img_040.jpg)
-Công cụ: CVAT, xuất chuẩn COCO 1.0
-Trạng thái: Guideline cá nhân (Pha 1 - Độc lập)
+**Nhóm**: Alpha
+
+**Người thực hiện**: Nguyễn Thị Hương Giang
+
+**Mã học viê**: 2A202603233
+
+**Phiên bản**: Individual Final v1.0
+
+**Phạm vi**: 40 ảnh đường phố (data/images/img_001.jpg – img_040.jpg)
+
+**Công cụ**: CVAT, xuất chuẩn COCO 1.0
+
+**Trạng thái**: Guideline cá nhân (Pha 1 - Độc lập)
 
 ---
 
