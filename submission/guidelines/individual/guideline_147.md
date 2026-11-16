@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v0.1 — Thành viên 147
+# Guideline gán nhãn — v0.1 — 147 - Nguyễn Trọng Hùng
 
 - **Phiên bản:** v0.1 (Bản guideline cá nhân độc lập — Pha 1)
 - **Ngày lập:** 2026-11-16
-- **Thành viên thực hiện:** Thành viên 147 (Mã sinh viên / MSHV: 2A202603147 / 147)
+- **Thành viên thực hiện:** Nguyễn Trọng Hùng (Mã sinh viên / MSHV: 147)
 - **Nhóm:** Alpha
 - **Bộ dữ liệu áp dụng:** 40 ảnh đường phố (`data/images/img_001.jpg` – `img_040.jpg`)
 - **Công cụ gán nhãn:** CVAT, xuất định dạng chuẩn COCO 1.0
@@ -188,4 +188,4 @@ Trước khi xuất file COCO JSON và commit bản gán nhãn cá nhân, 147 s�
 | Phiên bản | Ngày | Người thực hiện | Nội dung thay đổi chính | Căn cứ & Lý do thực hiện |
 |:---:|:---:|:---:|---|---|
 | `v0` | 2026-11-16 | Giảng viên | Bản khởi đầu sơ sài do giảng viên cung cấp. | Tài liệu khung khởi tạo lab, chưa có quy tắc chi tiết. |
-| `v0.1` | 2026-11-16 | Thành viên 147 | Xây dựng guideline cá nhân hoàn chỉnh gồm đủ 5 phần theo chuẩn rubric: định nghĩa chi tiết 6 lớp; lượng hóa 4 mức `occluded_level` theo % diện tích; chuẩn hóa 12 quy tắc vẽ box (R-01 đến R-12); phân tích 16 ca khó thực tế từ 40 ảnh; thiết lập 8 ngưỡng QC và quy trình tự kiểm tra 5 bước. | Hoàn thành Pha 1 (nghiên cứu độc lập 40 ảnh, không sao chép của người khác, phát hiện các ca mâu thuẫn để chuẩn bị họp Pha 2). |
+| `v0.1` | 2026-11-16 | Nguyễn Trọng Hùng (147) | Xây dựng guideline cá nhân hoàn chỉnh gồm đủ 5 phần theo chuẩn rubric: định nghĩa chi tiết 6 lớp; lượng hóa 4 mức `occluded_level` theo % diện tích; chuẩn hóa 12 quy tắc vẽ box (R-01 đến R-12); phân tích 16 ca khó thực tế từ 40 ảnh; thiết lập 8 ngưỡng QC và quy trình tự kiểm tra 5 bước. | Hoàn thành Pha 1 (nghiên cứu độc lập 40 ảnh, không sao chép của người khác, phát hiện các ca mâu thuẫn để chuẩn bị họp Pha 2). |
