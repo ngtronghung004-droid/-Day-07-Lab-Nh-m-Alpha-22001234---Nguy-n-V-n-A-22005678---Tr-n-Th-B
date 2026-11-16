@@ -1,0 +1,107 @@
+# Ghi chú cá nhân — 146
+
+- Họ tên: Ngô Thị Minh Quang.
+- MSHV: 2A202603146.
+- Ngày: 16/11/2026.
+- [Guideline cá nhân](../guidelines/individual/guideline_2A202603146_NgoThiMinhQuang.md).
+
+## 1. Pha 1 – Các ca khó
+
+Tôi sẽ điền ba ca sau khi tự xem ảnh, ghi cách xử lý của mình và điều v0 chưa giải thích rõ.
+
+| Ảnh | v0 chưa trả lời được gì | Quyết định của tôi | Lý do |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+
+## 2. Checklist 40 ảnh
+
+Tôi chỉ đổi trạng thái sau khi thực sự xem ảnh. Ghi chú và điều cần chú ý để trống để tôi bổ sung.
+
+| Image ID | Trạng thái | Ghi chú của tôi | Điều cần chú ý |
+|---|---|---|---|
+| [img_001.jpg](../../data/images/img_001.jpg) | Chưa xem | | |
+| [img_002.jpg](../../data/images/img_002.jpg) | Chưa xem | | |
+| [img_003.jpg](../../data/images/img_003.jpg) | Chưa xem | | |
+| [img_004.jpg](../../data/images/img_004.jpg) | Chưa xem | | |
+| [img_005.jpg](../../data/images/img_005.jpg) | Chưa xem | | |
+| [img_006.jpg](../../data/images/img_006.jpg) | Chưa xem | | |
+| [img_007.jpg](../../data/images/img_007.jpg) | Chưa xem | | |
+| [img_008.jpg](../../data/images/img_008.jpg) | Chưa xem | | |
+| [img_009.jpg](../../data/images/img_009.jpg) | Chưa xem | | |
+| [img_010.jpg](../../data/images/img_010.jpg) | Chưa xem | | |
+| [img_011.jpg](../../data/images/img_011.jpg) | Chưa xem | | |
+| [img_012.jpg](../../data/images/img_012.jpg) | Chưa xem | | |
+| [img_013.jpg](../../data/images/img_013.jpg) | Chưa xem | | |
+| [img_014.jpg](../../data/images/img_014.jpg) | Chưa xem | | |
+| [img_015.jpg](../../data/images/img_015.jpg) | Chưa xem | | |
+| [img_016.jpg](../../data/images/img_016.jpg) | Chưa xem | | |
+| [img_017.jpg](../../data/images/img_017.jpg) | Chưa xem | | |
+| [img_018.jpg](../../data/images/img_018.jpg) | Chưa xem | | |
+| [img_019.jpg](../../data/images/img_019.jpg) | Chưa xem | | |
+| [img_020.jpg](../../data/images/img_020.jpg) | Chưa xem | | |
+| [img_021.jpg](../../data/images/img_021.jpg) | Chưa xem | | |
+| [img_022.jpg](../../data/images/img_022.jpg) | Chưa xem | | |
+| [img_023.jpg](../../data/images/img_023.jpg) | Chưa xem | | |
+| [img_024.jpg](../../data/images/img_024.jpg) | Chưa xem | | |
+| [img_025.jpg](../../data/images/img_025.jpg) | Chưa xem | | |
+| [img_026.jpg](../../data/images/img_026.jpg) | Chưa xem | | |
+| [img_027.jpg](../../data/images/img_027.jpg) | Chưa xem | | |
+| [img_028.jpg](../../data/images/img_028.jpg) | Chưa xem | | |
+| [img_029.jpg](../../data/images/img_029.jpg) | Chưa xem | | |
+| [img_030.jpg](../../data/images/img_030.jpg) | Chưa xem | | |
+| [img_031.jpg](../../data/images/img_031.jpg) | Chưa xem | | |
+| [img_032.jpg](../../data/images/img_032.jpg) | Chưa xem | | |
+| [img_033.jpg](../../data/images/img_033.jpg) | Chưa xem | | |
+| [img_034.jpg](../../data/images/img_034.jpg) | Chưa xem | | |
+| [img_035.jpg](../../data/images/img_035.jpg) | Chưa xem | | |
+| [img_036.jpg](../../data/images/img_036.jpg) | Chưa xem | | |
+| [img_037.jpg](../../data/images/img_037.jpg) | Chưa xem | | |
+| [img_038.jpg](../../data/images/img_038.jpg) | Chưa xem | | |
+| [img_039.jpg](../../data/images/img_039.jpg) | Chưa xem | | |
+| [img_040.jpg](../../data/images/img_040.jpg) | Chưa xem | | |
+
+## 3. Pha 2 – Những điểm cần thảo luận với nhóm
+
+- Người ngồi trên xe máy: số box, phần người / xe và phần mũ được bao gồm.
+- Phân biệt `truck` và `van`, nhất là xe nhỏ hoặc pickup có nắp thùng.
+- Phương tiện ngoài taxonomy như tuk-tuk, xích lô và xe đạp.
+- Xe chở xe: phạm vi xe vận chuyển và các xe được chở.
+- Vật bị che: box phần nhìn thấy và cách phân mức `occluded_level`.
+- Phản chiếu, hình in, tượng, ma-nơ-canh và đồ chơi.
+- Phạm vi xe chủ và xe máy có thùng bên.
+- Cách đo vật nhỏ và gom `ignore_region` trong vùng đông.
+- Người chốt ca mơ hồ và cách ghi câu hỏi trong lúc gán độc lập.
+
+Kết quả sau cuộc họp: chưa có ghi nhận.
+
+## 4. Pha 3 – Kết quả gán nhãn
+
+- Số ảnh được phân công: TODO.
+- Số box đã vẽ: TODO.
+- Số trường hợp `can_review`: TODO.
+- Những ca còn phân vân: TODO.
+
+## 5. Pha 4–5 – IAA và Calibration
+
+- Những trường hợp bất đồng:
+- Rule ID liên quan:
+- Nguyên nhân sai khác:
+- IAA và mẫu số:
+- Quyết định sau Calibration:
+- Những điểm tôi rút kinh nghiệm:
+
+## 6. Nhật ký sử dụng công cụ
+
+Tôi đã dùng Codex để đọc tài liệu, giải thích khái niệm, biên tập câu chữ và bảng, kiểm tên ảnh và định dạng file. Ở phiên trước, theo yêu cầu của tôi, công cụ đã xem 40 ảnh, viết nhận xét và phương án về class, số box, cách tách vật; đồng thời kiểm tra tệp ZIP. Tôi cũng đã gửi một mẫu để tham khảo cách trình bày.
+
+Tôi chưa tự xác nhận các nhận xét từ ảnh thành quyết định của mình. Ở bản hiện tại, phần quan sát, quyết định và kết quả chưa thực hiện đều để trống hoặc TODO. Tôi sẽ tự đối chiếu ảnh và quy tắc trước khi điền; chưa ghi nhận bước tự kiểm này đã hoàn tất.
+
+## 7. Bài học cá nhân
+
+Tôi sẽ ghi sau khi thực hiện:
+
+- Điều tôi hiểu rõ hơn:
+- Điều tôi sẽ làm khác ở lần sau:
+- Ca cụ thể giúp tôi rút ra bài học:
