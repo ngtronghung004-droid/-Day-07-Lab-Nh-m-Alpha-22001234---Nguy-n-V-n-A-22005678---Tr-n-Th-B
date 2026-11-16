@@ -12,7 +12,7 @@ Tôi xây dựng quy tắc gán bounding box cho người và phương tiện tr
 
 Tôi chú ý việc bỏ sót người, nhầm loại phương tiện và vẽ box không sát vật. Những lỗi này làm mô hình học sai đối tượng hoặc phạm vi cần phát hiện. Tôi chỉ gán các đối tượng thuộc taxonomy; không chọn một class gần giống để thay cho trường hợp chưa rõ.
 
-Ở Pha 1, tôi sẽ xem đủ 40 ảnh và ghi những điểm v0 chưa giải thích, chưa vẽ box. Khi gán nhãn ở Pha 3, tôi sẽ dùng guideline v1.0 đã được nhóm thống nhất và khóa, làm độc lập theo ảnh được phân công.
+Ở Pha 1, tôi đã xem đủ 40 ảnh và đang đối chiếu lại những điểm v0 chưa giải thích rõ, chưa vẽ box. Khi gán nhãn ở Pha 3, tôi sẽ dùng guideline v1.0 đã được nhóm thống nhất và khóa, làm độc lập theo ảnh được phân công.
 
 ## 2. Lớp và thuộc tính
 
@@ -68,7 +68,7 @@ Tôi giữ các quy định đã có trong v0, template và tài liệu QC. Nh�
 
 ### Người và xe máy
 
-Tôi dùng hai ảnh dưới đây để minh họa phương án tách người và phương tiện theo R-09. Số box chỉ tính trong cụm được mô tả, không phải tổng nhãn toàn ảnh. Đây là phương án để tôi tự kiểm lại, chưa phải kết quả gán nhãn hoặc xác nhận quan sát cá nhân.
+Tôi dùng hai ảnh dưới đây để minh họa phương án tách người và phương tiện theo R-09. Số box chỉ tính trong cụm được mô tả, không phải tổng nhãn toàn ảnh. Đây là phương án để tôi kiểm lại cách áp dụng quy tắc, chưa phải kết quả gán nhãn đã chốt.
 
 | Nội dung cần xác định | Ảnh thứ nhất | Ảnh thứ hai |
 |---|---|---|
