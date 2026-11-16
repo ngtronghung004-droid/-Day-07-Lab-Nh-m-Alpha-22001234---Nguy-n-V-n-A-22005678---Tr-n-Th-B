@@ -104,7 +104,7 @@ Tôi giữ các ảnh dưới đây làm danh sách cần kiểm tra theo tên g
 | `img_035.jpg` | Overloaded Auto Rickshaw — phương tiện và hàng chở. | R-01, R-11 | | |
 | `img_038.jpg` | Shop window with toys and car models — đồ chơi, mô hình. | R-04, R-05 | | |
 
-Tôi sẽ xem cả 40 ảnh theo [checklist trong ghi chú cá nhân](../../individual_notes/2A202603146_NgoThiMinhQuang.md), chọn ba ca thật cùng quyết định và lý do. Ca đã loại được bằng quy tắc cần phân biệt với ca chưa rõ phải hỏi reviewer.
+Tôi sẽ xem cả 40 ảnh theo [checklist trong ghi chú cá nhân](../../individual_notes/146.md), chọn ba ca thật cùng quyết định và lý do. Ca đã loại được bằng quy tắc cần phân biệt với ca chưa rõ phải hỏi reviewer.
 
 ## 5. QC và phiên bản
 
