@@ -2,7 +2,7 @@
 
 - MSHV: 2A202603146.
 - Mã thành viên: 146.
-- Phiên bản: individual-v0.7.
+- Phiên bản: Individual v0.1.
 - Ngày: 16/11/2026.
 - Công cụ gán nhãn: CVAT; xuất COCO 1.0.
 
@@ -143,5 +143,4 @@ Tôi sẽ dùng v1.0 đã khóa trong Pha 3, giữ bản cá nhân để so vớ
 
 | Phiên bản | Thay đổi | Lý do (ca nào) |
 |---|---|---|
-| individual-v0.6 | Ghi phương án dự kiến cho các ca cần kiểm tra. | Chưa có quyết định từ quan sát cá nhân. |
-| individual-v0.7 | Viết lại toàn bộ nội dung, giữ bảng ca cần xem và để trống quyết định / lý do. | Tách quy tắc chung khỏi phần ghi nhận sau khi tự xem ảnh; chưa có kết quả họp hoặc Calibration. |
+| Individual v0.1 | Chuẩn hóa tên phiên bản của bản guideline cá nhân Pha 1. | Giữ nguyên quy tắc, ngưỡng QC và các phần chờ tự quan sát; chưa có quyết định nhóm hoặc Calibration. |
