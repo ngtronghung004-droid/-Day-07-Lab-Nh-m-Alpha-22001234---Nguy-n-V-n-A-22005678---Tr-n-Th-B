@@ -1,11 +1,10 @@
 # Guideline gán nhãn — v0.1 — 147 - Nguyễn Trọng Hùng
 
-- **Phiên bản:** v0.1 (Bản guideline cá nhân độc lập — Pha 1)
-- **Ngày lập:** 2026-11-16
-- **Thành viên thực hiện:** Nguyễn Trọng Hùng (Mã sinh viên / MSHV: 147)
-- **Nhóm:** Alpha
-- **Bộ dữ liệu áp dụng:** 40 ảnh đường phố (`data/images/img_001.jpg` – `img_040.jpg`)
-- **Công cụ gán nhãn:** CVAT, xuất định dạng chuẩn COCO 1.0
+- Phiên bản: v0.1 (bản guideline cá nhân đề xuất)
+- Ngày: 2026-11-16
+- Người thực hiện: Nguyễn Trọng Hùng (MSHV: 2A202603147)
+- Nhóm: Alpha
+- Công cụ: CVAT, xuất COCO 1.0
 
 ---
 
