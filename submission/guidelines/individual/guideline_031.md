@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v0.1 — Thành viên 101
+# Guideline gán nhãn — v0.1 — Thành viên Nguyễn Tấn Dũng
 
 - **Phiên bản:** v0.1 (bản guideline cá nhân, đề xuất để thảo luận)
 - **Ngày:** 2026-11-16
-- **Người viết / duyệt:** Thành viên 101 / Chưa duyệt
+- **Người viết / duyệt:** Thành viên Nguyễn Tấn Dũng / Duyệt
 
 ## 1. Mục tiêu
 
