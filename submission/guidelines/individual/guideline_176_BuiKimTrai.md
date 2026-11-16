@@ -4,7 +4,7 @@
 
 - **Nhóm:** Alpha
 - **Người thực hiện:** Bùi Kim Trại
-- **Mã học viên:** 2A202603176
+- **Mã học viên:** 176 (2A202603176)
 - **Phiên bản:** Individual Final v1.0
 - **Phạm vi:** 40 ảnh đường phố (`data/images/img_001.jpg` – `img_040.jpg`)
 - **Công cụ:** CVAT, xuất chuẩn COCO 1.0
@@ -158,7 +158,7 @@ Trước khi xuất file COCO JSON và commit lên GitHub:
 | Phiên bản | Ngày hoàn thành | Người thực hiện | Nội dung thay đổi chính |
 |---|---|---|---|
 | v0 | 2026-11-16 | Giảng viên | Bản khởi đầu sơ sài, định nghĩa mơ hồ, thiếu ngưỡng thuộc tính và ca khó. |
-| **Individual Final v1.0** | 2026-11-16 | Bùi Kim Trại (2A202603176) | Bản cá nhân hoàn chỉnh: bổ sung định nghĩa chi tiết, phân định car/truck/van, định lượng 4 mức occluded_level, bổ sung 10 quy tắc vẽ box, và giải quyết 10 ca khó thực tế từ 40 ảnh (hàng cồng kềnh `img_029`, vệt sáng nhòe `img_013`/`img_015`, tượng đài `img_017`/`img_027`, tranh in `img_018`, ma-nơ-canh `img_033`, tuk-tuk `img_004`, xe chở xe `img_002`, người cosplay `img_011`). |
+| **Individual Final v1.0** | 2026-11-16 | Bùi Kim Trại (176) | Bản cá nhân hoàn chỉnh: bổ sung định nghĩa chi tiết, phân định car/truck/van, định lượng 4 mức occluded_level, bổ sung 10 quy tắc vẽ box, và giải quyết 10 ca khó thực tế từ 40 ảnh (hàng cồng kềnh `img_029`, vệt sáng nhòe `img_013`/`img_015`, tượng đài `img_017`/`img_027`, tranh in `img_018`, ma-nơ-canh `img_033`, tuk-tuk `img_004`, xe chở xe `img_002`, người cosplay `img_011`). |
 
 ### 5.5. Ghi nhận sử dụng công cụ hỗ trợ
 

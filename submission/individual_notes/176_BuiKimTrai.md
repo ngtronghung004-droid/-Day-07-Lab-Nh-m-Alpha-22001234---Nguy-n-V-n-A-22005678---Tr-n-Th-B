@@ -1,4 +1,4 @@
-# Ghi chú cá nhân — 2A202603176 - Bùi Kim Trại
+# Ghi chú cá nhân — 176 - Bùi Kim Trại
 
 > Ghi chú cá nhân phục vụ theo dõi tiến trình làm lab qua từng pha (từ Pha 1 đến Pha 6).
 
