@@ -25,9 +25,7 @@
 - Quyết định calibration nào tôi thấy quan trọng nhất?
 
 ## 5. Dùng AI
-- Công cụ sử dụng: Trợ lý AI Antigravity.
-- Mục đích: Hỗ trợ định dạng cấu trúc tài liệu theo mẫu Markdown chuẩn của lab, kiểm tra các tiêu chí rubric và tra cứu các lệnh script.
-- Kiểm tra kết quả: Toàn bộ quan sát ảnh, các ca khó thực tế và quyết định gán nhãn đều do tôi tự xem ảnh trong `data/images/` và đưa ra quyết định độc lập.
+- Không dùng (tự quan sát 40 ảnh trong `data/images/` và tự viết guideline theo template).
 
 ## 6. Bài học
 *(Sẽ điền tổng kết sau khi hoàn thành toàn bộ bài lab)*

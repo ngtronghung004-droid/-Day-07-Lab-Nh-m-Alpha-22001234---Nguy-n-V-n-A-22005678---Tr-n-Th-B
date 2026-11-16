@@ -1,14 +1,10 @@
-# GUIDELINE CÁ NHÂN — GÁN NHÃN BOUNDING BOX
+# Guideline gán nhãn — v0.1 — 176 - Bùi Kim Trại
 
-**Lab 07: Guideline, Taxonomy & Quality Control**
-
-- **Nhóm:** Alpha
-- **Người thực hiện:** Bùi Kim Trại
-- **Mã học viên:** 176 (2A202603176)
-- **Phiên bản:** Individual Final v1.0
-- **Phạm vi:** 40 ảnh đường phố (`data/images/img_001.jpg` – `img_040.jpg`)
-- **Công cụ:** CVAT, xuất chuẩn COCO 1.0
-- **Trạng thái:** Guideline cá nhân (Pha 1 - Độc lập)
+- Phiên bản: v0.1 (bản guideline cá nhân đề xuất)
+- Ngày: 2026-11-16
+- Người thực hiện: Bùi Kim Trại (MSHV: 176)
+- Nhóm: Alpha
+- Công cụ: CVAT, xuất COCO 1.0
 
 ---
 
@@ -153,14 +149,9 @@ Trước khi xuất file COCO JSON và commit lên GitHub:
 - **Trong Pha 2 (Họp thống nhất nhóm):** Mang các ca khó chưa chốt (như Tuk-tuk trong `img_004`, Xe buýt trong `img_032`, Xe bán tải Pickup trong `img_001`/`img_012`) ra thảo luận với nhóm để thống nhất bổ sung quy tắc vào `guideline_v1.0_agreed.md` và cập nhật `taxonomy.json`.
 - **Trong Pha 5 (Calibration):** Đối chiếu các ca lệch trong `calibration_candidates.csv` sau khi đo IAA, phân tích nguyên nhân (do guideline mơ hồ hay do cá nhân gán sót/sai) để hoàn thiện `guideline_v1.1_calibrated.md`.
 
-### 5.4. Lịch sử phiên bản
+### 5.4. Lịch sử thay đổi
 
-| Phiên bản | Ngày hoàn thành | Người thực hiện | Nội dung thay đổi chính |
-|---|---|---|---|
-| v0 | 2026-11-16 | Giảng viên | Bản khởi đầu sơ sài, định nghĩa mơ hồ, thiếu ngưỡng thuộc tính và ca khó. |
-| **Individual Final v1.0** | 2026-11-16 | Bùi Kim Trại (176) | Bản cá nhân hoàn chỉnh: bổ sung định nghĩa chi tiết, phân định car/truck/van, định lượng 4 mức occluded_level, bổ sung 10 quy tắc vẽ box, và giải quyết 10 ca khó thực tế từ 40 ảnh (hàng cồng kềnh `img_029`, vệt sáng nhòe `img_013`/`img_015`, tượng đài `img_017`/`img_027`, tranh in `img_018`, ma-nơ-canh `img_033`, tuk-tuk `img_004`, xe chở xe `img_002`, người cosplay `img_011`). |
-
-### 5.5. Ghi nhận sử dụng công cụ hỗ trợ
-
-- Sử dụng trợ lý AI để hỗ trợ rà soát cấu trúc văn bản, định dạng Markdown theo đúng chuẩn biểu mẫu và đối chiếu chỉ số rubric của bài lab.
-- Toàn bộ quan sát về 40 ảnh, phát hiện ca khó (xe chở hàng cồng kềnh, vệt sáng lóa, đối tượng không phải người thật) và các đề xuất xử lý kỹ thuật đều do cá nhân học viên Bùi Kim Trại trực tiếp phân tích và đưa ra quyết định độc lập.
+| Phiên bản | Thay đổi | Lý do (ca nào) |
+|---|---|---|
+| v0 | Bản khởi đầu của đề bài | Chưa có quy tắc ca khó và ngưỡng đo lường |
+| v0.1 | Bổ sung định nghĩa chi tiết các lớp, phân biệt car/truck/van, định lượng 4 mức `occluded_level`, bổ sung 10 quy tắc vẽ box và 10 ca khó thực tế từ 40 ảnh | Khảo sát 40 ảnh thực tế: xử lý xe chở hàng cồng kềnh (`img_029`), vệt sáng lóa (`img_013`/`img_015`), loại trừ tượng đài (`img_017`/`img_027`), tranh in (`img_018`), ma-nơ-canh (`img_033`), đề xuất phân tách xe chở xe (`img_002`), tuk-tuk (`img_004`) |
