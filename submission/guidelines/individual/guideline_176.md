@@ -2,7 +2,7 @@
 
 - Phiên bản: v0.1 (bản guideline cá nhân đề xuất)
 - Ngày: 2026-11-16
-- Người thực hiện: Bùi Kim Trại (MSHV: 176)
+- Người thực hiện: Bùi Kim Trại (MSHV: 2A202603176)
 - Nhóm: Alpha
 - Công cụ: CVAT, xuất COCO 1.0
 
