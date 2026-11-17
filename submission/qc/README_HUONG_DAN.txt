@@ -1,0 +1,1 @@
+Bộ file này dựa trên 2 file IAA đã cung cấp. Sao chép các file cần thiết vào submission/qc/, không thay thế nhãn đang có. calibration_decisions.csv vẫn trống quyết định và cần review thực tế. labels_calibrated.json/.csv KHÔNG được tạo vì chưa có calibration. QC_REPORT.md là báo cáo trạng thái HOLD, không phải chứng nhận QC đạt.
