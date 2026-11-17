@@ -1,4 +1,4 @@
-# Day 07 Lab — Guideline, Taxonomy & QC
+# # Day 07 Lab — Nhóm Alpha: 2A202603147 - Nguyễn Trọng Hùng, 2A202603031 - Nguyễn Tấn Dũng, 2A202603176 - Bùi Kim Trại, 2A202603146 - Ngô Thị Minh Quang, 2A202603233 - Nguyễn Thị Hương Giang, Taxonomy & QC
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố châu Á · gán box bằng CVAT**
 
